@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivakumar
 - 👀 I’m interested in Testing
-- 🌱 I’m currently learning Automation Selenium
+- 🌱 I’m currently working on Automation Selenium
 - 💞️ I’m looking to collaborate on Automation and ERP Projects
 - 📫 How to reach me ...
 
